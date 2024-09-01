@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""Solves the N-Queens challenge"""
+"""Solves the N-Queens challenge."""
 
 
 def n_queens(n: int):
