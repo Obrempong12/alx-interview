@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-// Prints the list of characters in a Star Wars movie
+// Prints the list of characters in a Star Wars movie.
 
 const request = require('request');
 
