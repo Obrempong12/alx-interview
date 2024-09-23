@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""Contains makeChange func."""
+"""Contains makeChange func"""
 
 
 def makeChange(coins, total):
